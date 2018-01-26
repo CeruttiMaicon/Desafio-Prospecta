@@ -1,0 +1,161 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+p {
+    padding-left: 260px;    
+}
+
+input.campo {
+    margin-left: 260px;
+}
+
+
+body {
+    background-color: #222;
+    font-family: Verdana;
+    font-size: 100%;
+}
+
+.container {
+    margin: auto;
+    width: 1200px;
+    margin-top: 20px;   
+    padding: 10px;
+}
+
+nav {
+    width: 300px;
+    height: 600px;
+    background-color: #444;
+    float: left;
+    box-sizing: border-box;
+    padding: 10px;
+    
+}
+
+section {
+    width: 890px;
+    height: 600px;
+    margin-left: 10px;
+    float:left;
+    background-color: #fff;
+    box-sizing: border-box;
+    padding-left: 10px;
+    
+}
+
+ul.menu {
+    list-style-type: none;
+    
+}
+
+ul.menu li {
+    width: 280px;
+    height: 50px;
+    line-height: 50px;
+    background-color: #777;
+    color: #fff;
+    margin-top: 5px;
+    box-sizing: border-box;
+    padding-left: 110px;
+    
+}
+
+#botao {
+    text-align: center
+}
+.btn {
+    width: 100px;
+    text-align: center;
+    padding: 5px 20px;
+    height: 30px;
+    border: 1px solid #ddd;
+    background-color: #2a578b;
+    color: #fff;
+    cursor: pointer;
+    
+    
+}
+
+
+
+.campo {
+    width: 300px;
+    height: 30px;
+    border: 1px solid #ccc;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    
+}
+
+article {
+    
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    background-color: #d6d5d5;
+    margin-bottom: 5px;
+    
+    
+}
+
+#dicas {
+    text-align: center;
+    position: relative;
+    top:  200px;
+    right: -590px;
+    color: #ddd;
+    
+    width: 60px;
+}
+
+img.empresa {
+    
+    content: '';
+    height: 15%;
+    width: 15%;
+    position: absolute;
+    left: 390px;
+    top: 250px;
+}
+
+img.atention {
+    
+    content: '';
+    height: 5%;
+    width: 5%;
+    top: 270px;
+    right: 175px;
+    position: absolute;
+    
+}
+
+img.lupa{
+    content: '';
+    height: 10%;
+    width: 10%;
+    top: 125px;
+    right: 175px;
+    position: absolute;
+}
+
+img.lixo {
+    content: '';
+    height: 10%;
+    width: 10%;
+    top: 200px;
+    right: 100px;
+    position: absolute;
+}
+
+
+
+
