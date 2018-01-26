@@ -20,5 +20,12 @@ $password = "";
 
 $database = "cadastro";
 
-por padrão deixei formatado assim. é o padrão do MySQL.
+Por padrão deixei formatado assim. Pois é o padrão do MySQL.
+
+4- Pegue todos os arquivos do projeto e coloque um um servidor XAMP(eu utilizo este para desenvolver meus projetos) na pasta htdocs, ou WAMP na pasta www. Inicialize o serviço do Apache para ligar o server.
+
+OBS: caso necesario consulte https://www.youtube.com/watch?v=5Ptu_IWFgdY (o video é bem didatico)
+
+5- Execute o index.php no seu navegador rodando com o servidor Apache ligado. E o projeto do Desafio desenvolvido por mim deverá abrir.
+
 
